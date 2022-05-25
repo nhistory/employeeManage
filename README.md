@@ -12,3 +12,4 @@
 2. Spring boot 2.6.7
 3. mySQL v8.0.28
 4. Postman Version 9.15.10
+5. IntelliJ IDEA
