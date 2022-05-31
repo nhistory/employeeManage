@@ -9,10 +9,12 @@
 ### Prerequisites
 
 1. Java version 11
-2. Spring boot 2.6.7
-3. mySQL v8.0.28
-4. Postman Version 9.15.10
-5. IntelliJ IDEA
+2. Node 16.13.2 / npm 8.10.0
+3. Spring boot 2.6.7
+4. Angular CLI 13.3.6 / Angular 13.3.9
+5. mySQL v8.0.28
+6. Postman Version 9.15.10
+7. IntelliJ IDEA
 
 ### Spring boot project by IntelliJ IDEA
 
@@ -42,3 +44,8 @@
 
 <img width="777" alt="image" src="https://user-images.githubusercontent.com/39740066/170165702-34d1ee73-9aef-45ca-9cb5-057acafabfec.png">
 
+
+### Angular cli
+1. Install angular cli : ```npm install -g @angular/cli```
+2. Create and build angular project : ```ng new employeemanagerapp```
+3. Run project server : ```ng serve``` 
