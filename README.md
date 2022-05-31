@@ -4,6 +4,7 @@
 
 1. Built basic MVC model by spring boot 2.6.7 with maven dependencies.
 2. Tested Restful API GET, POST with postman and httpie.
+3. Developed frontend by Angular 13.3.9 and typescript.
 
 
 ### Prerequisites
