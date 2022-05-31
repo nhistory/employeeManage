@@ -54,3 +54,9 @@
 1. Install angular cli : ```npm install -g @angular/cli```
 2. Create and build angular project : ```ng new employeemanagerapp```
 3. Run project server : ```ng serve``` 
+
+### Angular generate service
+```
+ng generate service employee --skipTests=true
+```
+[CLI Command Reference](https://angular.io/cli/generate#service-command)
