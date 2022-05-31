@@ -35,6 +35,10 @@
         |- EmployeeResource
 ```
 
+### If mySQL access denied for user 'root'@'localhost' mac
+1. Change directory location: ```cd /usr/local/mysql/bin```
+2. ```./mysql -u root -p```
+
 ### Test API GET, POST request
 1. postman
 
