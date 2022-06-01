@@ -90,4 +90,5 @@ Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allo
 
 
 ## Reference
+https://www.youtube.com/watch?v=Gx4iBLKLVHk&t=437s
 https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
